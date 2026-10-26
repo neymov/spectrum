@@ -1,4 +1,4 @@
 # spectrumnew
 by neymov
-Be sure to read the readme.txt file in the spectrumnew folder.
+BE SURED to read the readme.txt file in the spectrumnew folder.
 ![Фотография](photo.png)
