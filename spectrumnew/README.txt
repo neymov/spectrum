@@ -1,5 +1,6 @@
 Spectrum Visualizer
 ===================
+IF YOU HAVE RUSSIAN OR OTHER keyb, To open the settings, switch your keyboard layout to English — otherwise, it won't open
 
 Windows audio spectrum visualizer with a small terminal-based settings menu.
 
